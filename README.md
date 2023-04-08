@@ -1,0 +1,1 @@
+**Aqui vai ficar as informações iniciais e importantes do app Realize**
